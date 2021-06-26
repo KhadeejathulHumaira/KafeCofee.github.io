@@ -1,0 +1,32 @@
+footer{
+    box-shadow: 0 -1px 3px rgba(0 0 0/10%),0 -2px 2px rgba(0 0 0/6%),0 0 2px rgba(0 0 0 /7%);
+    padding:24px 0;
+}
+.footer-container{
+    padding:0 40px;
+    display:flex;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.footer-container ul{
+    list-style-type:none ;
+    padding:0;
+    margin:0;
+}
+.footer-container ul li{
+    color: rgba(0,0,0,0.56);
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    margin-bottom: .8rem;
+}
+.footer-container ul li:hover{
+    color:#503426;
+    cursor: pointer;
+}
+.link-containers{
+    margin-right: 50px;
+}
+footer h3{
+    font-weight: 400;
+    margin-bottom: 24px;
+}
