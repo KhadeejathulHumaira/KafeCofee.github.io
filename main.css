@@ -32,7 +32,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #e9d8caa4;   
+    background-color: #e9d8cadf;   
     padding: 32px 48px; 
 }
 .text h1,text h3{
@@ -63,7 +63,7 @@ a{
     border: 2px solid #b08968;
     padding:7px 16px;
     border-radius: 50px;
-    font-weight:600;
+    font-weight:700;
     line-height: 1.2;
     cursor: pointer;
     transition: all .2s ease;
@@ -125,7 +125,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #e9d8caa4;   
+    background-color: #e9d8cadf;   
 }
 .about-section  .image .image1,.image2,.image3{
     height:100px;
