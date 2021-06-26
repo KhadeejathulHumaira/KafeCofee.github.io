@@ -16,8 +16,7 @@ footer{
 .footer-container ul li{
     color: rgba(0,0,0,0.56);
     padding-top: .8rem;
-    padding-bottom: .8rem;
-    margin-bottom: .8rem;
+    padding-bottom: .5rem;
 }
 .footer-container ul li:hover{
     color:#503426;
